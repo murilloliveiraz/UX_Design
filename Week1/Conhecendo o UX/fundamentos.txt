@@ -1,0 +1,12 @@
+Por exemplo, para um usuário ter uma boa experiência, o produto precisa ser :
+
+- usável : Pense em um frasco de ketchup. Historicamente, o ketchup vinha em um frasco de vidro. O usuário tinha que bater no fundo do vidro para fazer o ketchup sair. Muitas vezes, o ketchup não saía ou ketchup demais saía do frasco. Hoje, o recipiente de ketchup foi redesenhado em uma bisnaga de plástico que pode ser espremida, é mais fácil de usar e permite que os usuários controlem a quantidade de ketchup que sai. Designers de UX precisam pensar em cada pessoa que usa o produto
+
+- equitativo : significa que seus projetos são úteis e podem ser vendidos a pessoas com diversas habilidades e trajetórias.
+
+- agradável : A experiência do usuário também envolve tornar as coisas agradáveis de usar, criando uma conexão positiva entre o usuário e o produto. Designers de UX fomentam essa conexão positiva considerando os pensamentos e sentimentos do usuário no momento da criação dos produtos. Pense sobre como é encomendar comida on-line. Quando você pesquisa um restaurante no Google ou no Yelp, vê fotos de pratos e lê comentários de outras pessoas que comeram lá. Essa experiência é agradável porque é possível fazer uma escolha mais informada sobre o que pedir, por isso, você fica mais feliz com o produto. Então, como descobrimos o que deixa um usuário feliz com o produto? É aí que entra a pesquisa. Para saber como os usuários se sentem, precisamos coletar evidências da experiência deles com esse produto em tempo real e fazer perguntas.
+
+- útil : Como humanos, queremos produtos que sejam úteis, ou seja, que resolvam nossos problemas. Por exemplo, se você está perdido, um app de mapa que informe como chegar em casa é útil. Mas, se o app não conseguir encontrar sua localização atual, ele não é mais tão útil.
+
+ Isso significa que o design, a estrutura e o propósito dos produtos devem estar claros para todos.
+

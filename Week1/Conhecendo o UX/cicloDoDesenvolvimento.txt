@@ -1,0 +1,15 @@
+ o ciclo de desenvolvimento do produto, que tem cinco etapas: brainstorm, definição, design, teste e lançamento.
+
+ brainstorm, o momento em que a equipe começa a pensar em uma ideia para um produtoA etapa de brainstorm também é um momento ideal para verificar os concorrentes do produto e identificar se já existem produtos semelhantes disponíveis no mercado. Seu produto precisa preencher uma lacuna do mercado ou resolver um problema melhor do que os produtos que já existem. Pesquisar sobre os concorrentes e usuários ajuda a determinar quais problemas o design do produto precisa resolver.
+
+ definição do produto,O objetivo é descobrir as especificações do produto e responder a perguntas como: para quem o produto é voltado? O que o produto fará? Quais recursos precisam ser incluídos para que o produto tenha êxito? Durante a etapa de definição, a equipe refina a ideia. Um único produto não pode resolver todos os problemas do usuário.
+
+ design,começam desenhando wireframes, que são rascunhos ou esboços do produto. Em seguida, passam para a criação de protótipos, que são os primeiros modelos de um produto que demonstram a funcionalidade.
+
+ teste,Primeiro, a equipe testa o produto internamente para procurar falhas técnicas e problemas de usabilidade. Geralmente, esse passo é chamado de teste alfa.
+
+Em seguida, o produto passa por um teste com as partes interessadas para verificar se ele está alinhado à visão da empresa, atende às diretrizes jurídicas de acessibilidade e segue as normas governamentais de privacidade, por exemplo.
+
+Por fim, há um teste externo com usuários em potencial. Esse é o momento de descobrir se o produto oferece uma boa experiência do usuário, ou seja, que é usável, equitativo, agradável e útil. Geralmente, esse passo é chamado de teste beta.
+
+ lançamento, quando o produto é mostrado ao mundo! Isso pode envolver listar o app na Google Play Store ou na App Store da Apple, colocar um site no ar ou enviar um produto físico para as prateleiras das lojas
